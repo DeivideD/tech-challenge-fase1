@@ -88,5 +88,8 @@ Python · scikit-learn · pandas · numpy · matplotlib · seaborn · SHAP · Ju
 
 > Preencha com os nomes e RMs dos integrantes do grupo.
 
-- Nome – RM
-- Nome – RM
+- Anderson Alves de Oliveira Mares - RM376889
+- Caio Leandro de Santana - RM377048
+- Gabrielle Miguel Feitosa - RM376095
+- Mariane Cristina de Oliveira Mendes - RM376673
+- Duarte Deivide - 
