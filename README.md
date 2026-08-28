@@ -45,7 +45,7 @@ tech-challenge-fase1/
 
 ```bash
 # 1. Clonar o repositório
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone <git@github.com:DeivideD/tech-challenge-fase1.git>
 cd tech-challenge-fase1
 
 # 2. Criar e ativar um ambiente virtual
