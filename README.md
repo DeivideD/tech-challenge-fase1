@@ -92,4 +92,9 @@ Python · scikit-learn · pandas · numpy · matplotlib · seaborn · SHAP · Ju
 - Caio Leandro de Santana - RM377048
 - Gabrielle Miguel Feitosa - RM376095
 - Mariane Cristina de Oliveira Mendes - RM376673
-- Duarte Deivide - 
+- Duarte Deivide - RM376838
+
+Link do GIT: https://github.com/DeivideD/tech-challenge-fase1.git
+
+Link do vídeo de apresentação: https://vimeo.com/1222692298?share=copy&fl=sv&fe=ci
+
