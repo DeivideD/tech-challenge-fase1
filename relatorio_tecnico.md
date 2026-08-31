@@ -153,3 +153,16 @@ O modelo final (Regressão Logística) atinge 98,2% de acurácia e 97,6% de reca
 ## 9. Reprodutibilidade
 
 Todo o desenvolvimento está no notebook `notebooks/tech_challenge.ipynb`, executável de ponta a ponta (**Run → Run All Cells**). As dependências estão em `requirements.txt` e o modelo treinado em `src/`.
+
+Alunos: 
+
+- Anderson Alves de Oliveira Mares - RM376889
+- Caio Leandro de Santana - RM377048
+- Gabrielle Miguel Feitosa - RM376095
+- Mariane Cristina de Oliveira Mendes - RM376673
+- Duarte Deivide - RM376838
+
+Link do GIT: https://github.com/DeivideD/tech-challenge-fase1.git
+
+Link do vídeo de apresentação: https://vimeo.com/1222692298?share=copy&fl=sv&fe=ci
+
